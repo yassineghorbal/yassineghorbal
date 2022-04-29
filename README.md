@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new web developpment technologies, solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Web Development at @YouCodeSchool.
+- 🎓 &nbsp; Studying Full Stack Web Development at YouCode.
 - 💼 &nbsp; Making cool websites.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
