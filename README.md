@@ -37,8 +37,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yassine-ghorbal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:y.ghorbal@student.youcode.ma"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/yassine-ghorbal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yassine%20ghorbal-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:y.ghorbal@student.youcode.ma"><img alt="Email" src="https://img.shields.io/badge/Email-y.ghorbal@student.youcode.ma-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [yassineghorbal](https://github.com/yassineghorbal)
