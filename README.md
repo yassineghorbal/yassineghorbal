@@ -26,7 +26,7 @@
 <br/>
 
 <a href="https://github.com/yassineghorbal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassineghorbal&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassineghorbl&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineghorbal&theme=buefy&layout=compact" />
 </a>
 
